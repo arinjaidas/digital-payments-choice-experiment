@@ -1,0 +1,47 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              UPIChoice   R-squared:                       0.138
+Model:                            OLS   Adj. R-squared:                  0.133
+Method:                 Least Squares   F-statistic:                     37.35
+Date:                Mon, 19 Oct 2026   Prob (F-statistic):           1.19e-28
+Time:                        11:06:34   Log-Likelihood:                -515.81
+No. Observations:                 800   AIC:                             1042.
+Df Residuals:                     795   BIC:                             1065.
+Df Model:                           4                                         
+Covariance Type:                  HC3                                         
+====================================================================================
+                       coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------
+const                0.3214      0.031     10.331      0.000       0.260       0.382
+Default              0.2236      0.033      6.788      0.000       0.159       0.288
+PriorUPI             0.1930      0.035      5.593      0.000       0.125       0.261
+SwitchingEffort      0.0893      0.016      5.566      0.000       0.058       0.121
+PlatformReliance     0.0632      0.016      3.894      0.000       0.031       0.095
+==============================================================================
+Omnibus:                    14505.880   Durbin-Watson:                   2.025
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               72.187
+Skew:                          -0.233   Prob(JB):                     2.11e-16
+Kurtosis:                       1.604   Cond. No.                         3.68
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+
+                           Logit Regression Results                           
+==============================================================================
+Dep. Variable:              UPIChoice   No. Observations:                  800
+Model:                          Logit   Df Residuals:                      795
+Method:                           MLE   Df Model:                            4
+Date:                Mon, 19 Oct 2026   Pseudo R-squ.:                  0.1069
+Time:                        11:06:34   Log-Likelihood:                -490.31
+converged:                       True   LL-Null:                       -548.98
+Covariance Type:                  HC3   LLR p-value:                 1.966e-24
+====================================================================================
+                       coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------------
+const               -0.8065      0.147     -5.488      0.000      -1.095      -0.519
+Default              1.0206      0.156      6.542      0.000       0.715       1.326
+PriorUPI             0.8754      0.159      5.494      0.000       0.563       1.188
+SwitchingEffort      0.4235      0.080      5.271      0.000       0.266       0.581
+PlatformReliance     0.3005      0.077      3.881      0.000       0.149       0.452
+====================================================================================

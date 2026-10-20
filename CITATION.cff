@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Cite this public portfolio edition and preserve the research attribution in docs/PROVENANCE.md."
+type: software
+title: "Digital Payments and Default Choice public portfolio edition"
+authors:
+  - family-names: Das
+    given-names: Arinjai
+date-released: 2026-10-19
+version: "2026.10"
+url: "https://github.com/arinjaidas/digital-payments-choice-experiment"

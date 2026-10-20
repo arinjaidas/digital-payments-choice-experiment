@@ -1,0 +1,2 @@
+Method,Posterior_Mean_ATE,CI_2.5,CI_97.5,P_treatment_greater,N_control,N_treatment
+Bayesian Beta-Binomial (uniform prior),0.1640767470382693,0.045276831321082386,0.28472462292601386,0.9968033333333334,82,101

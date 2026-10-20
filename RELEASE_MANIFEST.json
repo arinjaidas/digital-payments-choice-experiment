@@ -1,0 +1,207 @@
+{
+  "publication_date": "2026-10-20",
+  "repository": "https://github.com/arinjaidas/digital-payments-choice-experiment",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 54,
+      "sha256": "7ae984b50ced7a800f4d97bc3f53471819f84860bbfc71a8658f1162a9f3fc95"
+    },
+    {
+      "path": ".github/workflows/verify.yml",
+      "bytes": 760,
+      "sha256": "e9a60b9e465f09e603c86971a594d3140793351f6ab2b56d24e6f7339bb6aa52"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 161,
+      "sha256": "226529a2f80dc277d24a19fc76db3779708389691b815cacf6c6dc27228fdcde"
+    },
+    {
+      "path": ".python-version",
+      "bytes": 5,
+      "sha256": "7b55f8e67b5623c4bef3fa691288da9437d79d3aba156de48d481db32ac7d16d"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 333,
+      "sha256": "eb6d7d725e7828c119af1c26b98401fbc16888225500649d23aa55ccbe70e38a"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 384,
+      "sha256": "dd85e1007beb613f96f80413f477bcfa9875b6ef7ede16e9362142ac7a099d4d"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 607,
+      "sha256": "5bded38c45157b324f6c63e8ca9ed017d3f3068168eeffdc50b95cca1db2106a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4275,
+      "sha256": "eb85b2e9a788909d73b8634ba8e527376287b94faffc7a567cea0eb27738e289"
+    },
+    {
+      "path": "REPRODUCIBILITY.md",
+      "bytes": 1327,
+      "sha256": "4ab506ac94eab3fa50ee6568d316f46c60af2758fbd5cb2110d7fb5dc4c2499d"
+    },
+    {
+      "path": "assets/header.svg",
+      "bytes": 732,
+      "sha256": "61310ecbc2728214c670c330f8b0cc3004bb2b92f6fec3101a598232c7adebc6"
+    },
+    {
+      "path": "demo.py",
+      "bytes": 4448,
+      "sha256": "2593729bfafd71830d4a8f5adb1238fd101070eeaadb9b62c0aa88d627a4fbc6"
+    },
+    {
+      "path": "demo_output/choice.svg",
+      "bytes": 29922,
+      "sha256": "67ec1ef022de08e730424a27e878bf86ca502f36974ef5749e5854aa9edef2d6"
+    },
+    {
+      "path": "demo_output/group_summary.csv",
+      "bytes": 69,
+      "sha256": "7f587758ec616d5c4286390a38ba4ae215fc564bda91aec1377e0185ece5ffba"
+    },
+    {
+      "path": "demo_output/model_coefficients.csv",
+      "bytes": 1263,
+      "sha256": "cb2e35285a06753c33a0a84d60f2a33e186bda902139fdf39cc3b2a2a1622362"
+    },
+    {
+      "path": "demo_output/model_summaries.txt",
+      "bytes": 3563,
+      "sha256": "f9258daded5b0d1385d5e46efe8210c7233c75a78b95b3575f57caa11034839f"
+    },
+    {
+      "path": "demo_output/run_metadata.json",
+      "bytes": 411,
+      "sha256": "4317cc85d8cbe22eedce7f5d645b61359d0c134ee4a77084fe2f6f8091c04ff8"
+    },
+    {
+      "path": "demo_output/synthetic_anonymous_responses.csv",
+      "bytes": 36258,
+      "sha256": "2169f9d2133d1bb5e0cc1f70995d7e789a1d3aac7c1254b1fa57a01979a2e21a"
+    },
+    {
+      "path": "docs/CLI.txt",
+      "bytes": 380,
+      "sha256": "106fa28b25a29ec1432e24d52eafd49d0da38ccc762494033d362a1574ae7cde"
+    },
+    {
+      "path": "docs/DATA_DICTIONARY.md",
+      "bytes": 701,
+      "sha256": "d0c4363abe4a1bd1a2412d7304f03bce0c4036a5d189097e6af751ec4cca9f39"
+    },
+    {
+      "path": "docs/METHODS.md",
+      "bytes": 1397,
+      "sha256": "723f60cd5c65a8e20e214ec1bdb11b031b9da305d047841a95f4e1915d756d48"
+    },
+    {
+      "path": "docs/PROVENANCE.md",
+      "bytes": 1083,
+      "sha256": "20eb412b784a4a645c1f1a0458feeb51b29abc7c6dc23c933f4205eaa491b723"
+    },
+    {
+      "path": "docs/REFERENCES.md",
+      "bytes": 326,
+      "sha256": "dd3b345098719db854442288fefc74cb141cefa0267429221766fd0dcee3e406"
+    },
+    {
+      "path": "docs/RESULTS.md",
+      "bytes": 743,
+      "sha256": "5108d61d6b9fe8cfc8d70cf7456fa50ae30ac2e03cfcd3348845dbc66d8327e4"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "bytes": 363,
+      "sha256": "e95a436dd549cc419ca4bda2f76026cd04baf3979b4d65a1622193147d6125b2"
+    },
+    {
+      "path": "docs/environment.json",
+      "bytes": 278,
+      "sha256": "c12143b6512ab77c7898db33d7d05dda805d20f6a8a41feb33906f0dd55ffae2"
+    },
+    {
+      "path": "notebooks/01_results_walkthrough.ipynb",
+      "bytes": 3479,
+      "sha256": "97013846f77bf629e2b9503e83c361ff2e8bfd24c0c84d8e0a029ac84a5342da"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 88,
+      "sha256": "dc3a9cd8c82263bc08440b01cce3a8ca79b4ec42fcaccf919f7b2d69ac1f2cce"
+    },
+    {
+      "path": "research_archive/README.md",
+      "bytes": 1815,
+      "sha256": "a9ecd48d012c824cc3ca104c19cc9b142cd8be3851466ecaee982c8f192012c6"
+    },
+    {
+      "path": "research_archive/historical_aggregate_results/A1_specification_curve.csv",
+      "bytes": 15731,
+      "sha256": "2c0c79a9deea8a073726e725bbbcd0fabbadc8bb1bad2208039e96c2891e4815"
+    },
+    {
+      "path": "research_archive/historical_aggregate_results/B1_aipw_doubly_robust_ate.csv",
+      "bytes": 210,
+      "sha256": "dae2e34777fccf8048c698726338c1f8fdc2b3be98a5184cbcbcdfe0d820a918"
+    },
+    {
+      "path": "research_archive/historical_aggregate_results/C1_cate_oof_r2.csv",
+      "bytes": 153,
+      "sha256": "5fdbf2295c5509975e7edda0f73902b4f8d03fb9b7584752597ec24f692b9302"
+    },
+    {
+      "path": "research_archive/historical_aggregate_results/C2_cate_variable_importance.csv",
+      "bytes": 400,
+      "sha256": "6323e470ee88b36006123b8f7fcc675fb711bd28f70e333559cb77499a1a2562"
+    },
+    {
+      "path": "research_archive/historical_aggregate_results/D1_predictive_benchmark.csv",
+      "bytes": 432,
+      "sha256": "7c3aba6fb64b6c2d0e61129e9a62b37e91406cca8f87c054e87c10d60826fe0d"
+    },
+    {
+      "path": "research_archive/historical_aggregate_results/D2_permutation_feature_importance.csv",
+      "bytes": 461,
+      "sha256": "9e6463bee81367d5a44742cf12e76e16d385f6fa8f8a86146fb842e262df2f8a"
+    },
+    {
+      "path": "research_archive/historical_aggregate_results/E1_bayesian_ate.csv",
+      "bytes": 208,
+      "sha256": "ef39684c7495a241719714f42068d1444fb35fc7045f2ec0f57af474718950f4"
+    },
+    {
+      "path": "research_archive/historical_aggregate_results/F1_cross_method_ate_summary.csv",
+      "bytes": 546,
+      "sha256": "1bee2ff0dc8dbad79eb2a77b86b4787784a1ab6ad2e46eda3558cc43dc7949fe"
+    },
+    {
+      "path": "research_archive/original_analysis/Advanced_ML_Robustness_Extension.py",
+      "bytes": 22688,
+      "sha256": "516634b61d6a70dd7711f6f2ed4944247ff30e230e72f05586f335cc4a72f1c4"
+    },
+    {
+      "path": "research_archive/original_analysis/digital_choice_analysis.py",
+      "bytes": 16226,
+      "sha256": "b195b3780f34bc6719e2796010f7630960e00a3f249948bc76f63316d09bd75e"
+    },
+    {
+      "path": "research_archive/original_analysis/robustness_checks_block.py",
+      "bytes": 28268,
+      "sha256": "470d4d0e272aeb06c55f8126e68346c97999e8e98c650655423c6777260419de"
+    },
+    {
+      "path": "test_demo.py",
+      "bytes": 825,
+      "sha256": "930b4450c0d980cd0b80c6d0860394d4de128328fe33fbd5d0a1954540c2e33f"
+    }
+  ],
+  "excludes": "This manifest excludes itself to avoid a recursive hash."
+}

@@ -1,0 +1,11 @@
+usage: demo.py [-h] (--demo | --data DATA) [--output OUTPUT]
+
+Runnable synthetic demonstration of the payment-choice analysis workflow.
+Archived original scripts and aggregate results are separate from these
+synthetic responses. No original participant-level data are included.
+
+options:
+  -h, --help       show this help message and exit
+  --demo
+  --data DATA
+  --output OUTPUT

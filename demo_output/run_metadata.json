@@ -1,0 +1,10 @@
+{
+  "synthetic": true,
+  "input_rows": 800,
+  "complete_case_rows": 800,
+  "unadjusted_difference": 0.23309332733318333,
+  "lpm_default_coefficient": 0.22357955774981025,
+  "logit_average_discrete_change": 0.2242278913086033,
+  "interpretation": "Simulated workflow demonstration, not an estimate from the original study.",
+  "archived_results": "Original study results are excluded from this public edition."
+}

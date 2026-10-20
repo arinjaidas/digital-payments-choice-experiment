@@ -1,0 +1,11 @@
+{
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "statsmodels": "0.15.0",
+    "matplotlib": "3.10.8"
+  },
+  "platform_note": "Local Linux verification; compatible requirements are not a cross-platform lockfile."
+}

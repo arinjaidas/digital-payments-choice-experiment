@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.pickle
+*.joblib
+*.parquet
+private_data/
+raw_responses/
+
+notebook_output/
+.ipynb_checkpoints/
